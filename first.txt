@@ -6,3 +6,5 @@ Demo World
 changes in online editor
 
 new changes from online editor 
+
+new changes done on local repo, locally
